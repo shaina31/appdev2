@@ -1,0 +1,82 @@
+Shaina KArillyn G. Pagarigan
+Bachelor of Science in Information Systems 3
+Application Development and Emerging Technologies 2
+
+
+Introduction:
+
+The past few years, I was able to work with frontend development using HTML, CSS, JavaScript, and React. 
+I’d say I’m pretty comfortable with them after spending some ample amount of time to understand them,
+ especially when it comes to building user-interfaces and handling how things work on the client-side.
+
+I’ve also had some introductory experience using Firebase, a BaaS platform, for authentication and the likes,
+but when it comes to backend development, I don’t have much experience. I may still have remembered some 
+basics about databases, but I haven’t really worked hands-on with backend technologies. Some of these 
+terms are familiar, while others are completely new.
+
+I am looking forward to learn more in this course. I want to understand how backend development works, 
+and how everything runs behind the scenes. I know this will be really helpful, especially with bigger 
+projects coming up, like our Capstone Project.
+
+
+Course Expectations:
+
+In this course, I want to develop a strong understanding of backend development, especially with the 
+examples you’ve given us, like Node.js and Express. I know that backend development plays a huge role in 
+making applications work efficiently, and I want to learn how to build and deploy APIs since they are 
+essential for connecting different parts of an application. Along with that, if given the chance, I also 
+want to get hands-on experience working with databases that I usually hear like MongoDB because I know 
+how important database management is in backend systems.
+
+Aside from learning technical stuffs, I also aim to improve my problem-solving skills when dealing with
+backend-related challenges. I want to be able to understand how everything works behind the scenes, from 
+processing user requests to optimizing performance, managing authentication, and handling errors effectively. 
+I know that backend development can be complex, but I’m excited to tackle these challenges because I believe 
+they will help me grow as a student and an aspiring developer in the future.
+
+Learning backend development will also open up more opportunities for me in the industry. Being able to 
+work with both frontend and backend will make me a more well-rounded developer, which is important if I want
+to take on bigger projects in the future. I also see this as a crucial step in improving my skills, especially
+since we have major projects coming up, like our Capstone Project. I want to be confident in my ability 
+to build useful, dynamic, and data-driven applications, and I know that gaining backend development 
+skills will help me achieve that.
+
+
+Challenges and Areas for Improvement:
+
+I can say, the biggest challenge I expect to face in this course is working with databases. To be frank, 
+I’m still not that comfortable with SQL or NoSQL databases, so figuring out how to manage data properly 
+and understand complex queries might take some time for me. Another thing I think will be tough is handling
+API requests, authentication, and security. Since I don’t have much hands-on experience with these, I know 
+I might struggle a bit compared to some of my classmates.
+ 
+To get better in these areas, I hopefully plan to practice on my free time by building small projects and 
+following tutorials online to reinforce what we learn in class. I also want to make the most of online 
+resources and documentation since they can be really helpful when troubleshooting issues occur. Engaging in 
+class discussions and asking questions whenever I get stuck will also be a big part of my learning process.
+If I run into difficulties, I won’t hesitate to ask for help from my instructor or classmates. I know backend 
+development comes with challenges, but I’m willing to put in the effort to improve and gain confidence along the way.
+
+
+Expectations from the Instructor:
+
+I hope that you still continue to give us clear explanations and real-world examples to help us understand backend 
+development better. Having a good mix of theoretical concepts, coding examples, and hands-on exercises would really 
+help on  practicing what we learn. I’d also appreciate any extra resources, like recommended readings, write-ups, 
+reflections, or practice problems which can help us grasp and deepen our understanding.
+
+Feedback on assignments and projects would be very much appreciated as it is helpful to me as a student because it 
+is always good to identify the areas that I am lacking and that I can make some room for improvement for it. 
+Guidance on best practices and industry standards would also be valuable, especially since backend development is 
+such an important skill in real-world applications.
+
+
+Final Thoughts:
+
+Just like last time, I am excited about this course and is eager to learn more about backend development. One thing 
+that makes it bearable and enjoyable is the environment that our class have already established. I believe that gaining 
+backend skills with classmates that are eager to learn and comply will complement the knowledge already imposed to us, 
+making us a more well-rounded developer. To sum it all up, I look forward to the challenges and opportunities this course
+will bring this semester.
+
+Thanks be to God.
