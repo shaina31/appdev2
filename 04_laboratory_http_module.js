@@ -20,3 +20,4 @@ const hostName = 'localhost';
 server.listen(port, hostName, () => {
     console.log(`Server is running on http://${hostName}:${port}`);
 });
+
