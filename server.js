@@ -10,6 +10,12 @@ const MONGO_URI = process.env.MONGO_URI;
 
 app.use(express.json());
 
+// ✅ Add this basic root route
+app.get('/', (req, res) => {
+  res.send('📚 Simple Book API is running!');
+});
+
+// Route middleware
 app.use('/api/auth', authRoutes); 
 app.use('/api/books', bookRouters);
 

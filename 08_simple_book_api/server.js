@@ -29,9 +29,12 @@ let books = [
 }
 ];
 
+require('crypto').randomBytes(64).toString('hex')
+
 app.get('/', (req, res) => {
   res.send("Simple Book API using Node.js and Express");
 });
+
 
 app.get('/api/books', (req, res) => {
   res.json(books);
